@@ -8,7 +8,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
-    <small><a href="#">Open source </a>coded  by Nataliia Melnyk</small>
+    <small><a href="https://github.com/avreliakotta/my-app" target="_blanck">Open source </a>coded  by Nataliia Melnyk</small>
   </React.StrictMode>
 );
 

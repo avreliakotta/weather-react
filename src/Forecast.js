@@ -1,10 +1,8 @@
-import React, { useState } from "react";
+import React from "react";
 import "./Forecast.css";
 import ReactAnimatedWeather from 'react-animated-weather';
 export default function Forecast(responsive) {
-   function handleSabmit(event) {
-      
-   }
+   
      return (
         <div className="Forecast">
            
