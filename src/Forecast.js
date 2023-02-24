@@ -7,7 +7,7 @@ export default function Forecast(responsive) {
    }
      return (
         <div className="Forecast">
-           <h3>Forecast</h3>
+           
            <ul className="Forecast-list">
               <li>
                  <p>Mon</p>
