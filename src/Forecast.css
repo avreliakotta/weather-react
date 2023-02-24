@@ -1,0 +1,12 @@
+.Forecast{
+    text-align: center;
+}
+.Forecast-list {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 60px;
+
+}

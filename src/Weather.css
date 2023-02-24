@@ -1,0 +1,54 @@
+li{
+    list-style-type: none;
+}
+ul{ 
+    margin: 0;
+    padding:0;
+    
+}
+.SearchEngine{
+    margin-top: 40px;
+    margin-left: 40px ;
+    margin-bottom: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    gap:15px;
+}
+.Detail{
+    margin-left: 40px;
+}
+.Container{
+    display: flex;
+
+
+    margin-left: 40px;
+}
+.Parameters{
+    text-align: center;
+    margin-top: -90px;
+    margin-left: 100px;
+}
+.Temperature{
+    margin-top: 10px;
+    font-size: 54px;
+}
+.Degree{
+    margin-top:-70px ;
+    margin-left: 60px;
+    color: #757575;
+    font-weight: 200;
+}
+
+
+
+    
+    
+
+    
+    
+    
+
+
+    
+    
+    
